@@ -215,9 +215,9 @@ github repo
 Alexa Orrico - Github / Twitter
 Jennifer Huang - Github / Twitter
 
-Second part of Airbnb: Joann Vuong
-## Afolabi Adetunji
-## Olasubomi Adetunji
+Second part of Airbnb:
+ Afolabi Adetunji
+ Olasubomi Adetunji
 
 ## License
 No Lincense
